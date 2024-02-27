@@ -1,0 +1,313 @@
+id,nome,lat,lon,tipologia,indirizzo,cap,comune,provincia,email,telefono,fax
+567rb,"Ristorante ""Semifonte",43.488079071039998,11.12462997437,RISTORANTE,"Via Pisana, 1",,,Firenze,semifonte@semifontehotel.it,055 8068051,055 8069283
+468rb,Antica Osteria di Vico,43.513506,11.098876000000001,RISTORANTE,"Via della Villa, 1",50100,,Firenze,info@anticaosteriadivico.it,055 8073279,
+725rb,Osteria di San Vivaldo,43.52376514617,10.895289806439999,RISTORANTE,"Via San Vivaldo, 21",50050,MONTAIONE,Firenze,carlamaria.alari@tin.it,0571 69264,0571 680118
+524rb,"Ristorante ""Bassetto",43.530819000000001,11.061564000000001,RISTORANTE,"Via delle Città, 102",50052,CERTALDO,Firenze,info@ilbassetto.it,0571 664364,0571664736
+578rb,"Ristorante ""Casolar di No' Altri",43.537620544429998,10.924849510190001,RISTORANTE,"Via Poggio dell'Aglione, 67",50050,GAMBASSI TERME,Firenze,3381072497@tim.it,0571 638274,0571 639670
+724rb,"Ristorante ""Le Torri",43.539319999999996,10.954235000000001,RISTORANTE,"Via Volterrana, 3",50050,GAMBASSI TERME,Firenze,info@albergoletorri.it,0571 638189,0571 638188
+2638rb,Pontormo caffè BIOBAR,43.539819000000001,10.954523,BOTTEGA,Via Volterrana 34,50050,GAMBASSI TERME,Firenze,gerardoregi@toscananet.it,0571 638130,
+497rb,"Ristorante Agriturismo ""Vaianino",43.540103912349998,10.95487117767,RISTORANTE,"Via Montignoso, 87/a",50050,"Loc. Vaiano, GAMBASSI TERME",Firenze,info@vaianino.it,0571 678072 - 0571 678068,0571 678058
+712rb,"Ristorante ""Il Castagno",43.540980219840002,10.954853072760001,RISTORANTE,,50050,"Castagno, GAMBASSI TERME",Firenze,,0571 678045,0571 678045
+532rb,Bar Pizzeria Osteria Conca d'Oro,43.541058,11.316929999999999,RISTORANTE,"Via Chiantigiana, 31 - Panzano in Chianti",50022,"Panzano in Chianti, GREVE IN CHIANTI",Firenze,info@pizzeriaconcadoro.it,055 850602,
+2136rb,Macelleria Neri Fabrizio & C.,43.542878000000002,11.0385034,BOTTEGA,Via Don Giovanni Minzoni 50,50052,CERTALDO,Firenze,macellerianeri@libero.it,0571668389,
+716rb,"Ristorante ""La Saletta",43.547031402590001,11.042715072629999,RISTORANTE,"Via Roma, 4",50052,CERTALDO,Firenze,,0571 668188,0571 688188
+717rb,Osteria del Vicario,43.549036000000001,11.045579999999999,RISTORANTE,"Via Rivellino, 3",50052,CERTALDO,Firenze,info@osteriadelvicario.it,0571 668676,0571 668228
+1723rb,La Bottega di Chichibio,43.549241420000001,11.04534585,BOTTEGA,"Via Boccaccio, 4",50052,"0571/652504, CERTALDO",Firenze,,0571 652504,
+2834rb,Osteria da Chichibio,43.549243799999999,11.0452546,RISTORANTE,via Boccaccio 4,50052,CERTALDO,Firenze,vanessa.gabelli@gmail.com,0571652504,
+685rb,"Ristorante ""Carpe Diem",43.55057144165,10.9152765274,RISTORANTE,"Via Filicaia, 67",50050,MONTAIONE,Firenze,hotel.carpediem@inwind.it,0571 697888,0571 607603
+704rb,"Ristorante ""La Cucina del Castellare",43.552352905269998,10.88286876678,RISTORANTE,"Via Cerroni, 1",50050,"Tonda, MONTAIONE",Firenze,info@castellareditonda.com,0571 69111,
+708rb,"Ristorante ""De' Mannaioni",43.552745000000002,10.912755000000001,RISTORANTE,Via Cresci,50050,MONTAIONE,Firenze,info@unapalazzomannaioni.it,0571 69277,0571 697974
+707rb,Osteria del Pesce Rosso,43.553117,10.913245,RISTORANTE,"Via Chiarenti, 14",50050,MONTAIONE,Firenze,,0571 69010,0571 69010
+684rb,"Ristorante ""Corte Antica",43.553356000000001,10.912089,RISTORANTE,"Via F. Chiarenti, 46",50050,MONTAIONE,Firenze,,0571 698178,0571 698178
+683rb,"Ristorante ""Casa Masi",43.55361175537,10.911722183229999,RISTORANTE,,50050,"San Bendetto, MONTAIONE",Firenze,casamasi@nautilo.it,0571 677170,0571 677042
+703rb,"Ristorante ""Il Focolare",43.55361175537,10.911722183229999,RISTORANTE,,50050,"San Vivaldo 7, MONTAIONE",Firenze,,0571 69498,0571 69498
+752rb,"Ristorante ""Il Lago",43.55361175537,10.911722183229999,RISTORANTE,"Via Vecchia, 22",50050,"Le Mura, MONTAIONE",Firenze,info@ristoranteillago.it,0571 677168,0571 45586
+1054rb,Ass. Cuochi Medicei Chiantigiani,43.555600657889997,11.07159577194,RISTORANTE,via tavolese,,CERTALDO,Firenze,,0571 660224,0571 660224
+702rb,"Ristorante ""La Tavernetta",43.557903289789998,10.90528678894,RISTORANTE,"Via Donatori del Sangue, 6/7",50050,MONTAIONE,Firenze,pioandpio@inwind.it,0571 697736,
+2626rb,Il caratello wine bar- wine shop-restaurant,43.561045,11.173159,RISTORANTE,via roma  184,50028,TAVARNELLE VAL DI PESA,Firenze,info@ilcaratello.biz,0558059501,0558059501
+1403rb,Osteria La Gramola,43.561894677209999,11.17408019911,RISTORANTE,Via delle Fonti 1,50028,TAVARNELLE VAL DI PESA,Firenze,osteria@gramola.it,055/8050321,055/8077368
+244rb,"Ristorante ""Borgo Antico",43.561935424799998,11.175618171689999,RISTORANTE,"Via Roma, 55/57",50028,,Firenze,info@albergovittoria.it,055 8076180,055 8076180
+245rb,Osteria La Gramola,43.561948000000001,11.174075999999999,RISTORANTE,"Via delle Fonti, 1",50028,"Nel centro di Tavarnelle, TAVARNELLE VAL DI PESA",Firenze,osteria@gramola.it,055 8050321,055 8050321
+2541rb,Poggio al Bosco,43.562151,11.187393999999999,BOTTEGA,"Via Chiostrini, 5",50028,"Via Chiostrini 5, TAVARNELLE VAL DI PESA",Firenze,bianca@poggioalbosco.com,+39 0558076474,+39 0558076474
+723rb,"Ristorante ""Là a i' Lago",43.566703796390001,11.08249092102,RISTORANTE,"Via Tavolese, 140",50052,CERTALDO,Firenze,,0571 660057,0571 665318
+715rb,Osteria di Casa Chianti,43.566703799999999,11.08249092,RISTORANTE,"Via Case Nuove, 77",50052,"Fiano, CERTALDO",Firenze,info@osteriadicasachianti.it,055 8075311,0571 669688
+1573rb,Il Panaio di Scialabba Giuseppe,43.567398070000003,11.217183110000001,BOTTEGA,"Via Gramsci, 12",50024,,Firenze,,055 8218309,
+2325rb,giovanni da verrazzano,43.582393000000003,11.317219,RISTORANTE,piazza matteotti 28,50022,GREVE IN CHIANTI,Firenze,info@albergoverrazzano.it,055853189,055853648
+1542rb,Antica Macelleria Falorni snc,43.582435099999998,11.31688289,BOTTEGA,"Piazza Giacomo Matteotti, 71",50022,GREVE IN CHIANTI,Firenze,,055 853029,
+210rb,"Ristorante Albergo ""Giovanni Da Verrazzano",43.582446716420002,11.316862742390001,RISTORANTE,"Viale Matteotti, 28",50022,GREVE IN CHIANTI,Firenze,info@ristorantedaverrazzano.it,055 853189,055 853648
+1407rb,Ristorante Da Verrazzano,43.582446716420002,11.316862742390001,RISTORANTE,P.zza Matteotti 28,50022,GREVE IN CHIANTI,Firenze,info@ristoranteverrazzano.it,055/853189,055/853648
+207rb,"Ristorante ""Mangiando Mangiando",43.582689188140002,11.316696256529999,RISTORANTE,"Viale Matteotti, 80",50022,GREVE IN CHIANTI,Firenze,,055 8546372,055 8546372
+2617rb,Enoteca Ristorante gallo Nero,43.583025200000002,11.317595499999999,RISTORANTE,"Cesare Battisti, 9",50022,GREVE IN CHIANTI,Firenze,info@enoristorantegallonero.it,055853734,0558544802
+1134rb,Trattoria Casa Masi,43.58305,10.88003,RISTORANTE,"Via Collerucci, 53",50050,MONTAIONE,Firenze,info@casamasimontaione.it,0571 677170,0571 677042
+1404rb,Casa Masi,43.583252678740003,10.876762918320001,RISTORANTE,Via Collerucci 53,50050,MONTAIONE,Firenze,,0571/677170 - 339/4590950,0571/677042
+1073rb,Casa Masi,43.583390000000001,10.877526,RISTORANTE,"via Collerucci, 53",,MONTAIONE,Firenze,info@casamasimontaione.it,0571 677170,0571 677041
+666rb,"Ristorante Enoteca ""I Lecci",43.588175,11.117758,RISTORANTE,"Via Lucardese, 74",50025,MONTESPERTOLI,Firenze,info@enotecailecci.it,0571 657641,
+722rb,"Ristorante ""C'era una volta",43.597620999999997,11.115869999999999,RISTORANTE,"Via Certaldese, 11",50025,"Lucardo, MONTESPERTOLI",Firenze,,0571 669578,0571 669578
+727rb,Osteria da Carlo,43.604038000000003,10.970162,RISTORANTE,"Piazza Kennedy, 20",50051,CASTELFIORENTINO,Firenze,osteriadacarlo@tiscali.it,0571 64127,
+853rb,Caffè Stazione,43.605488999999999,10.968381000000001,RISTORANTE,"Via Ridolfi, 34",,CASTELFIORENTINO,Firenze,caffestazione@caffestazione.it,0571 64164,0571 64164
+519rb,"Ristorante ""La Palagina",43.608695983890001,11.437462806699999,RISTORANTE,"Via Gravigiana, n. 4",50063,"La Palagina, FIGLINE VALDARNO",Firenze,ristorante@palagina.it,055 9502029,055 952001
+648rb,"Ristorante ""Sant'Andrea",43.613216999999999,11.450915999999999,RISTORANTE,Nuovo  Villaggio,50063,"Norcenni, FIGLINE VALDARNO",Firenze,info@ristorantegirasole.com,055 9153507,055 9151402
+653rb,"Ristorante ""Il Girasole",43.614260000000002,11.455235999999999,RISTORANTE,"Via Norcenni, 7",50063,FIGLINE VALDARNO,Firenze,info@ristorantegirasole.com,055 959202,055 9151402
+2353rb,La Trattoria del Pesce,43.615431999999998,11.190322099999999,RISTORANTE,via cassia 124,50026,"bargino, SAN CASCIANO IN VAL DI PESA",Firenze,latrattoriadelpesce@live.it,0558249045,0558249045
+627rb,"Ristorante ""Norcenni",43.61574935913,11.45189857483,RISTORANTE,Via Norcenni,50063,"Villaggio Girasole, FIGLINE VALDARNO",Firenze,info@ristorantegirasole.com,055 959202,055 9151402
+746rb,"Ristorante ""Le Boscarecce",43.621344999999998,11.002636000000001,RISTORANTE,"Via Renai, 19",50051,CASTELFIORENTINO,Firenze,info@leboscarecce.com,0571 61280,0571 634008
+209rb,"Ristorante ""Casprini  Da Omero",43.624868999999997,11.28241,RISTORANTE,"Via Falcone, 68/70",50022,"Passo dei Pecorai, GREVE IN CHIANTI",Firenze,,055 850715,
+2827rb,Ristorante Toscana,43.6255509,11.4630119,RISTORANTE,Vai San Biagio 2,50063,FIGLINE VALDARNO,Firenze,info@albergo-toscana.com,055951424,0559029858
+2648rb,L' Appalto di Zela,43.626559,10.92248,RISTORANTE,"Via Coianese, 31",50051,"Castelnuovo d' Elsa, CASTELFIORENTINO",Firenze,appaltodizela@gmail.com,+39 0571 673308,
+718rb,"Ristorante Vegetariano ""La Fonte",43.633457180000001,11.11499882,RISTORANTE,"Via Lucignano, 15",50025,MONTESPERTOLI,Firenze,vegetariano@ristorantelafonte.it,0571 609514,0571 543260
+742rb,"Trattoria ""Mamma Rosa",43.63395690918,11.179075241090001,RISTORANTE,"Via Cassia per Siena, 32",50026,,Firenze,,055 8249454,
+2454rb,Macelleria Tozzetti,43.634410000000003,11.232889999999999,BOTTEGA,"p.zza V. Veneto, 43",50024,"Mercatale Val di Pesa, SAN CASCIANO IN VAL DI PESA",Firenze,macelleria.tozzetti@gmail.com,055 821071,055 821071
+559rb,Locanda Il Gallo,43.638292,11.313998,RISTORANTE,"Via Lando Conti, 18",50020,"Chiocchio, GREVE IN CHIANTI",Firenze,info@locandailgallo.it,055 8572266,055 9029857
+2125rb,ristorante enoteca i lecci,43.638875300000002,11.082137700000001,RISTORANTE,via Lucardese 74,50025,MONTESPERTOLI,Firenze,info@ristoranteilecci.it,0571 609670,
+2686rb,I'LICCHIO,43.643920999999999,11.076314,BOTTEGA,"via Roma, 5",50025,MONTESPERTOLI,Firenze,info@ilicchio.it,0571608099,
+890rb,Osteria Nero di Seppia,43.644441,11.070841,RISTORANTE,"Via Taddeini, 70",,MONTESPERTOLI,Firenze,nerodiseppia07@libero.it,0571 606007,
+558rb,"Ristorante Enoteca ""Lo Staccio",43.644441,11.070841,RISTORANTE,"Via Taddeini, 70",50025,MONTESPERTOLI,Firenze,lostaccio@tiscalinet.it,0571 608405,
+3035rb,Bistrot Lo Zero,43.6445723,11.0704811,RISTORANTE,"via Taddeini, 70",50025,MONTESPERTOLI,Firenze,bistrot.lozero@gmail.com,3880972467,
+3147rb,Bistrot Lo Zero,43.6445723,11.0704811,RISTORANTE,Via Taddeini 70,50025,MONTESPERTOLI,Firenze,rossoramefirenze@gmail.com,3290241553,0554644029
+3148rb,Ristorante Bistrot Lo Zero,43.6445723,11.0704811,RISTORANTE,"Via Taddeino Taddeini, 70",50025,MONTESPERTOLI,Firenze,rossoramefirenze@gmail.com,0039 329 024 1553,
+1644rb,Antica Fiaschetteria del Chianti,43.657009119999998,11.18574619,BOTTEGA,"Piazza Pierozzi,  24",50026,"055820314, ",Firenze,,055820314,
+1571rb,La Dispensa di Andrea e Gregorio,43.657677999999997,11.299443999999999,BOTTEGA,Via G.Mazzini 1,50027,GREVE IN CHIANTI,Firenze,a.parrini@tiscali.it,055 8588957,
+206rb,"Ristorante ""La Padellina",43.660226999999999,11.295762,RISTORANTE,"Corso del Popolo, 54",50027,"Strada in Chianti, GREVE IN CHIANTI",Firenze,,055 858388,055 858388
+663rb,"Ristorante Osteria ""Cantina Petrarca",43.661492495689998,11.448877492439999,RISTORANTE,"Via Petrarca, 11",50064,,Firenze,,055 8334412,055 8333945
+726rb,"Ristorante ""Il Mezzo Marinaio",43.664366999999999,11.084600999999999,RISTORANTE,"Via Volterrana Nord, 84",50025,"Baccaiano, MONTESPERTOLI",Firenze,info@enotecailecci.it,0571 671292,
+211rb,"Ristorante ""La Martellina",43.668655999999999,11.291637,RISTORANTE,"Via di Pancole, 1",50022,"Strada in Chianti, GREVE IN CHIANTI",Firenze,federigoanelli@libero.it,055 858348,
+208rb,"Ristorante ""Paglietta",43.668785,11.350390000000001,RISTORANTE,"Via S.Lavagnini,15 - San Polo in Chianti",50022,GREVE IN CHIANTI,Firenze,,055 855443,
+1070rb,Park hotel Villa Cesi,43.679569000000001,11.273726,RISTORANTE,"via delle Terre Bianche, 1",,IMPRUNETA,Firenze,info@villacesi.it,055 231101,055 2011372
+235rb,"Ristorante ""Sassineri",43.679569000000001,11.273726,RISTORANTE,"Via delle Terre Bianche, 1",50023,IMPRUNETA,Firenze,,055 231101,055 2011377
+199rb,"Ristorante ""Villa Pitiana",43.682209014889999,11.530934333799999,RISTORANTE,"Via Provinciale Tosi, 7",,"Donnini, REGGELLO",Firenze,info@ristorantevillapitiana.com,055 860397,055 8605814
+2169rb,MACELLERIA,43.683109100000003,11.5327495,BOTTEGA,"P/zza G.Garibaldi,18",50066,REGGELLO,Firenze,lnrd.corsi1@gmail.com,055868363,
+239rb,"Ristorante ""Il Pruneto",43.684462421870002,11.252260251899999,RISTORANTE,"Via della Croce, 39",50023,IMPRUNETA,Firenze,info@pruneto.net,055 0124046,055 0124046
+1069rb,Osteria Antica Sosta,43.684902969070002,11.25399511995,RISTORANTE,"via della Croce, 4/6/8",,IMPRUNETA,Firenze,info@osteria-anticasosta.it,055 2312249,055 2314656
+650rb,"Ristorante ""Bellavista",43.685010200000001,11.2541549,RISTORANTE,"Via della Croce, 2",50023,IMPRUNETA,Firenze,info@bellavistaimpruneta.it,055 2011083,055 2313929
+240rb,Osteria Lo Ziro,43.687372000000003,11.255414,RISTORANTE,"Via Roma, 19/21",50023,IMPRUNETA,Firenze,,055 2012232,
+238rb,"Ristorante ""I Cavallacci",43.689103000000003,11.251804,RISTORANTE,"Via Aldo Moro, 3",50023,IMPRUNETA,Firenze,info@icavallacci.it,055 2313863,055 2313863
+241rb,"Ristorante ""Dot.Com.Restaurant",43.698062,11.464733000000001,RISTORANTE,Centro The Mall,,"Leccio, REGGELLO",Firenze,info@dotcomleccio.com,055 8657876,055 8657018
+893rb,Ristorante Archimede,43.700531599999998,11.535592100000001,RISTORANTE,"Ponte di Casalino, 68",50066,REGGELLO,Firenze,archimede@val.it,055 8667500,055 868584
+2363rb,borgo san jacopo,43.700650400000001,10.744434399999999,RISTORANTE,via borgo san jacopo 32/r,50125,FIRENZE,Firenze,bsj@lungarnocollection.com,055281661,
+456rb,"Ristorante ""La Lanterna",43.70622253418,11.049124717710001,RISTORANTE,"Via Pulica, 132",50056,MONTELUPO FIORENTINO,Firenze,info@lalanternaristorante.it,0571 542021,0571 929148
+709rb,"Ristorante ""Charlie & Brown",43.715040999999999,10.815542000000001,RISTORANTE,"Via Sanminiatese, 89",50054,"S.Pierino, FUCECCHIO",Firenze,,0571 20633,0571 20633
+682rb,Trattoria da Enrico,43.717817650679997,10.79332447364,RISTORANTE,"Via Provinciale Fiorentina, 148",50050,FUCECCHIO,Firenze,,0571 23172,0571 23172
+2951rb,bagnoli,43.718124000000003,10.941058,BOTTEGA,Via Cellini 48,50053,EMPOLI,Firenze,bagnoliempoli@gmail.com,057176580,
+1132rb,Ristorante Escallegra,43.718828518670001,10.94777639512,RISTORANTE,P.zza Popolo,50053,EMPOLI,Firenze,,0571 1960226,055 750890
+700rb,Antica Trattoria del Turbone,43.718997999999999,11.035219,RISTORANTE,"Via Turbone, 35/37/39",50056,"turbone, MONTELUPO FIORENTINO",Firenze,info@anticatrattoriadelturbone.it,0571 542035,0571 608629
+713rb,"Ristorante ""Il Cantuccio",43.721393585210002,10.93429946899,RISTORANTE,"Via Piave, 2",50053,EMPOLI,Firenze,,0571 944533,0571 609741
+1577rb,La Piazzetta,43.722827594430001,11.291556037739999,BOTTEGA,"Via Pian di Grassina, 20",50012,"055 641656, BAGNO A RIPOLI",Firenze,stefano1244@interfree.it,055 641656,
+1567rb,Alimentari Luana,43.72301200954,11.29721484947,BOTTEGA,"Via Tizzano, 61/63",50012,BAGNO A RIPOLI,Firenze,,055 641107,
+711rb,"Ristorante ""I Palmenti",43.725307000000001,11.022774,RISTORANTE,"Via della Pesa, 89",50056,MONTELUPO FIORENTINO,Firenze,,0571 913326,0571 913326
+686rb,"Ristorante ""La Certosa",43.730207613829997,11.223356598880001,RISTORANTE,"Via Cassia, 1",50124,FIRENZE,Firenze,ristcert@tin.it,055 2048876,055 2047109
+563rb,Osteria Il Vignale,43.730274000000001,11.539859999999999,RISTORANTE,Saltino,,"Vignale 33, REGGELLO",Firenze,,055 862155,
+706rb,Osteria Livornese,43.732520999999998,11.020465,RISTORANTE,"Viale Umberto I, 2",50056,MONTELUPO FIORENTINO,Firenze,,0571 542611,
+710rb,"Ristorante ""Vino, Donna e Canto",43.733684180120001,11.0211035985,RISTORANTE,"Corso Garibaldi, 28/30",50056,MONTELUPO FIORENTINO,Firenze,eno.bar@libero.it,0571 912308,0571 912308
+714rb,Osteria Montellori,43.735017242650002,10.80808253903,RISTORANTE,"Via Pistoiese, 1",50054,FUCECCHIO,Firenze,,0571 245716,
+1412rb,Dalle Vigne Wine Loft,43.743271100000001,10.902635399999999,RISTORANTE,"Via del Torrino, 25",50059,"Mercatale, VINCI",Firenze,wineloft@dallevigne.com,0571 902675,0571 902675
+2026rb,Osteria di Giogo,43.747126899999998,11.294037599999999,RISTORANTE,Via Chiantigiana 106,50126,"Ponte a Ema, FIRENZE",Firenze,infi@osteria-giogo.it,0556461311,
+1540rb,Cotellesa Tina & C. s.a.s.,43.749681000000002,11.181524,BOTTEGA,"Via Giotto, 50",50018,SCANDICCI,Firenze,,055 250065,
+2351rb,Erboristeria Albero Verde,43.749731199999999,11.2212111,BOTTEGA,"Via Senese, 221-223/rosso",50124,"Galluzzo, FIRENZE",Firenze,info@alberoverde.net,0552047446,
+2644rb,TRATTORIA OMERO,43.751174900000002,11.2562538,RISTORANTE,VIA PIAN DEI GIULLARI 11/R,50125,"Arcetri, FIRENZE",Firenze,omero@ristoranteomero.it,055220053,0552336183
+2268rb,osteria cantagallo,43.751516000000002,11.015013,RISTORANTE,via valicarda 35,50050,CAPRAIA E LIMITE,Firenze,info@enricopierazzuoli.com,05711820860-3313233396,0571583399
+719rb,"Ristorante Caffè ""Primavera",43.752212229999998,11.31962478,RISTORANTE,"Via Roma, 144",50012,BAGNO A RIPOLI,Firenze,tema2002@virgilio.it,055 630457,055 632453
+1400rb,da Francesca,43.752272699999999,11.3196882,RISTORANTE,Via Manlio 2,50055,BAGNO A RIPOLI,Firenze,pranzosano@confcommercio.toscana.it,055 468141,
+3245rb,Woodstock,43.754216900000003,11.1922839,RISTORANTE,"Scandicci, FI, Italia",50018,"Scandicci, ",Firenze,info@woodstockfirenze.it,3389469984,
+260rb,"Ristorante ""Convivium Firenze",43.756423950200002,11.28985881805,RISTORANTE,"Viale Europa, 4",50100,FIRENZE,Firenze,,055 6811757,055 6811766
+205rb,"Ristorante ""Le Vedute",43.756981955379999,10.75523933883,RISTORANTE,"Via Romana Lucchese, 121",50054,"Le Vedute, FUCECCHIO",Firenze,info@levedute.it,0571 297498,0571 297201
+1425rb,Piazzale del gusto,43.757627408250002,11.271000583439999,RISTORANTE,"via michelangiolo, 61",50125,FIRENZE,Firenze,info@piazzaledelgusto.it,0550139903,
+1072rb,Ristorante Edy Più,43.759686710289998,11.104789637530001,RISTORANTE,"via Calcinaia, 94",,LASTRA A SIGNA,Firenze,,055 8724562,055 8721346
+2356rb,PS Ristorante,43.7596919,10.8803477,RISTORANTE,Via Pianello val Tidone 41,50050,CERRETO GUIDI,Firenze,info@ps-ristorante.it,0571559242,
+857rb,Bar Petrarca,43.760288000000003,11.242266000000001,RISTORANTE,"Piazzale Porta Romana, 6/r",,FIRENZE,Firenze,,,
+457rb,Osteria Santi Saccenti,43.760418999999999,10.877242000000001,RISTORANTE,"Via Pianello Val Tidone, 41",50050,CERRETO GUIDI,Firenze,,0571 55279,0571 55279
+678rb,"Ristorante ""Il Cavaliere",43.760998106610003,10.75295464055,RISTORANTE,"Via Romana Lucchese, 114",50054,"Le Vedute, FUCECCHIO",Firenze,,0571 297207,
+1982rb,La Terrazza del Principe,43.762110999999997,11.272615800000001,RISTORANTE,"Viale Machiavelli, 10",50125,FIRENZE,Firenze,info@laterrazzadelprincipe.com,055 224104,055 2335375
+863rb,Osteria Gavì,43.762590000000003,11.285842000000001,RISTORANTE,"Via Lapo da Castiglionchio, 10/12r",,FIRENZE,Firenze,,055 6581047,055 6581047
+2587rb,Trattoria da Beppino,43.762757100000002,11.278902499999999,RISTORANTE,Via di Ripoli 13/r,50126,FIRENZE,Firenze,trattoriabeppino@gmail.com,0556810505,
+1064rb,Trattoria Boboli,43.764079799999998,11.2461386,RISTORANTE,Via Romana 45 r,0,FIRENZE,Firenze,trattoriaboboli@gmail.com,055 2336401,055 2336401
+258rb,Hosteria del Bricco,43.764399540820001,11.26382205462,RISTORANTE,"Via S. Niccolò, 8/12",50126,FIRENZE,Firenze,info@osteriadelbricco.it,055 2345037,055 2345037
+878rb,Trattoria Celestino,43.764898144630003,11.247889784610001,RISTORANTE,"P.zza Santa Felice, 4r",,FIRENZE,Firenze,bruno.celestino@virgilio.it,055 2396574,055 292185
+2023rb,Ristorante La Bocca di Leone,43.765041199999999,11.2098797,RISTORANTE,via Pisana 41 rosso,50143,FIRENZE,Firenze,info@laboccadileone.it,0552286572,
+705rb,"Ristorante ""L'Antinoro",43.765608484300003,11.037684736479999,RISTORANTE,"Via Tosco-Romagnola Nord, 6",50056,MONTELUPO FIORENTINO,Firenze,,0571 51341,0571 51742
+865rb,Osteria Santo Spirito,43.766434937189999,11.24678329396,RISTORANTE,"P.zza Santo Spirito, 16r",,FIRENZE,Firenze,chiarata@interfree.it,055 2382383,
+859rb,Borgo Antico,43.766466000000001,11.247524,RISTORANTE,"Piazza Santo Spirito, 6/r",50100,FIRENZE,Firenze,albertogargelli@alice.it,055 210437,
+743rb,"Ristorante ""Il Cantinone",43.766466000000001,11.247524,RISTORANTE,"Piazza S. Spirito, 6/r",50125,FIRENZE,Firenze,ilcantinone@libero.it,055 218898,055 218898
+874rb,Ristorante Palazzo Tempi,43.766509999999997,11.255045000000001,RISTORANTE,"Via dei Bardi, 33/37",,FIRENZE,Firenze,,055 2466949,
+2028rb,LA STREGA NOCCIOLA -  GELATERIA ARTIGIANALE,43.767057100000002,11.253891599999999,RISTORANTE,VIA DEI BARDI 51R,50125,"PONTE VECCHIO, FIRENZE",Firenze,info@lastreganocciola.it,0552382150,
+864rb,Osteria Il Magazzino,43.767108999999998,11.250565999999999,RISTORANTE,"P.zza della Passera, 2/3",,FIRENZE,Firenze,luca_cai@virgilio.it,055 215969,
+882rb,Bar Trattoria Da Ginone,43.767290000000003,11.24549,RISTORANTE,"Via dei Serragli, 35/r",50124,FIRENZE,Firenze,trattoriaginone@gmail.com,055 218758,055 218758
+868rb,Ristorante Cavolo Nero,43.767451999999999,11.244982,RISTORANTE,"Via dell'Ardiglione, 22",,FIRENZE,Firenze,cavolonero@cavolonero.it,055 294744,055 294744
+277rb,"Ristorante ""Alla Vecchia Bettola",43.767456054690001,11.23965549469,RISTORANTE,"Viale Pratolini, 3/7",50100,FIRENZE,Firenze,,055 224158,
+1058rb,Le Colonnine,43.767518000000003,11.259321,RISTORANTE,"vai Benci, 6 r",,FIRENZE,Firenze,,055 2346417,055 2346417
+877rb,Trattoria Cammillo Sas,43.767797559930003,11.25160455374,RISTORANTE,"Borgo San Jacopo, 57r",50125,FIRENZE,Firenze,cammillo@momax.it,055 212427,055 212963
+2745rb,i Toscani,43.767998900000002,11.2497372,BOTTEGA,via Maggio 1 R,50125,FIRENZE,Firenze,direzione@itoscani.it,055289841,
+273rb,"Ristorante ""Olio & Convivium",43.768188479999999,11.24962425,RISTORANTE,"Via S. Spirito, 4",50100,FIRENZE,Firenze,olio.convivium@conviviumfirenze.it,055 2656267,055 2658198
+286rb,"Ristorante ""Fantasia",43.768200999999998,11.264443,RISTORANTE,"Via San Giuseppe, 12/r",50100,FIRENZE,Firenze,,055 2343533,
+876rb,Tea 3 Srl,43.768217999999997,11.281993,RISTORANTE,"Via Lanza, 54",,FIRENZE,Firenze,,,
+202rb,"Ristorante Enoteca ""Tavernetta della Signoria",43.768279,11.257709,RISTORANTE,"Via dei Neri, 57/r",50100,FIRENZE,Firenze,,055 288951,055 2654770
+1060rb,Ristorante il Cantinone,43.768279088260002,11.24911238847,RISTORANTE,"Via Santo Spirito, 6r",,FIRENZE,Firenze,ilcantinone@libero.it,055 218898,055 218898
+2068rb,Kome Sushi & BBQ Restaurant,43.768545000000003,11.260145700000001,RISTORANTE,"via dei Benci, 41r",50122,FIRENZE,Firenze,info@komefirenze.it,+39 055 2008009,+39 055 2466723
+2884rb,Da Pescatore Casa di Cucina,43.768566,11.2444864,RISTORANTE,Piazza del Carmine 7r,50124,FIRENZE,Firenze,dp@dapescatore.it,055219978,
+290rb,Trattoria Antico Fattore,43.768569371300003,11.25529712476,RISTORANTE,"Via Lambertesca, 1/3r",50100,FIRENZE,Firenze,,055 288975,055 283341
+2635rb,Le Fate,43.768942799999998,11.263869,RISTORANTE,Borgo Allegri n.9r,50100,FIRENZE,Firenze,ristorantelefate@gmail.com,055/3841998,
+271rb,"Ristorante ""Napoleone",43.768981933589998,11.24472904205,RISTORANTE,"Via del Carmine, 24",50100,FIRENZE,Firenze,,055 281015,
+204rb,"Ristorante ""Totò",43.769013999999999,11.253545000000001,RISTORANTE,"Borgo Santi Apostoli, 6/r",50100,FIRENZE,Firenze,rist.toto@tin.it,055 212096,055 6802816
+568rb,"Ristorante ""Alle Murate",43.769474000000002,11.265275000000001,RISTORANTE,"Via Ghibellina, 52/r",,FIRENZE,Firenze,,055 240618,055 288950
+867rb,Baccarossa,43.769516299999999,11.2652166,RISTORANTE,"Via Ghibellina, 46r",50122,FIRENZE,Firenze,info@baccarossa.it,055 240620,055 240620
+1398rb,Ristorante Bacca Rossa,43.769518767599997,11.26500965376,RISTORANTE,Via Ghibellina 46/r,,FIRENZE,Firenze,info@baccarossa.it,055/240620,055/7004956
+3260rb,MartaBottega,43.769560400000003,11.2558136,BOTTEGA,"Firenze, FI, Italia",56028,,Firenze,segreteria@sanminiatopromozione.it,057142745,
+3033rb,PEPPINO,43.769560400000003,11.2558136,BOTTEGA,97 Avenue Emile Vincent,83000,"Toulon, Francia, FIRENZE",Firenze,peppinosas@outlook.fr,0033494935120,
+3202rb,TUSCANBITES,43.769666600000001,11.259263199999999,RISTORANTE,VIA DELL'ANGUILLARA,50122,FIRENZE,Firenze,info@tuscanbites.com,0550464760,
+1401rb,Hostaria Il Desco,43.769711100000002,11.2529006,RISTORANTE,Via delle Terme 23/r,50123,FIRENZE,Firenze,hostariaildesco@yahoo.it,055/294882,055/294882
+2968rb,Aroma ristorante in Firenze,43.7697371,11.2638845,RISTORANTE,via ghibellina 67r,50122,FIRENZE,Firenze,info@aroma-ristorante.it,0552260038,
+858rb,Bar S.Firenze,43.769750999999999,11.257623000000001,RISTORANTE,"Piazza San Firenze, 1/r",,FIRENZE,Firenze,barsanfirenze@tele2.it,055 211426,
+2942rb,LA BOCCA DI LEONE,43.7698167,11.206131600000001,RISTORANTE,VIA PISANA N. 39R,50143,FIRENZE,Firenze,lapoalessandri@commercialisti.fi.it,3397544092 - 0552344978,0552260188
+203rb,"Ristorante ""Tirovino",43.769820000000003,11.263583000000001,RISTORANTE,"Via Ghibellina, 70/r",50100,FIRENZE,Firenze,,055 2638940,055 2001468
+269rb,Osteria del Caffè Italiano,43.770063,11.260292,RISTORANTE,"Via dell'Isola delle Stinche, 11/13r",50100,FIRENZE,Firenze,info@caffeitaliano.it,055 289080,055 288950
+248rb,"Ristorante ""La Maremma",43.770072937009999,11.26135063171,RISTORANTE,"Via G. Verdi, 16/r",50100,FIRENZE,Firenze,info@ristorantelamaremma.it,055 240972,055 240972
+289rb,"Ristorante ""Grotta Guelfa",43.77008,11.253562000000001,RISTORANTE,"Via Pellicceria, 5/r",50100,FIRENZE,Firenze,info@grottaguelfa.it,055 268041,055 210042
+2550rb,Gilda Bistrot,43.770162200000001,11.266557300000001,RISTORANTE,Piazza Ghiberti,50122,FIRENZE,Firenze,info@gildabistrot.it,0552343885,0552343885
+869rb,Ristorante Gustavino,43.770203000000002,11.256790000000001,RISTORANTE,"Via della Condotta, 29/37r",,FIRENZE,Firenze,www.gustavino.it,055 2399806,055 2399806
+253rb,"Ristorante ""La Bussola",43.770236968989998,11.25277042389,RISTORANTE,"Via Rossa, 58/r",50100,FIRENZE,Firenze,,055 293376,
+889rb,Boccanegra,43.770325,11.2613612,RISTORANTE,"Via Ghibellina, 124/r",50122,FIRENZE,Firenze,info@boccanegra.com,055 2001098,055 2263038
+862rb,Osteria dei Macci,43.770389000000002,11.265959000000001,RISTORANTE,"Via dei Macci, 77/r",,FIRENZE,Firenze,osteria@osteriadeimacci.it,055 241226,055 241226
+3221rb,F.Sottili Gioielleria Orologeria,43.770389999999999,11.27402,BOTTEGA,Via Gioberti 100R,50121,FIRENZE,Firenze,info@sottili.com,055.9152013,055.9152013
+3223rb,F.Sottili Gioielleria Orologeria,43.770389999999999,11.27402,BOTTEGA,Via Gioberti 100R,50121,FIRENZE,Firenze,info@sottili.com,055.9152013,055.9152013
+747rb,"Ristorante ""All'Antico Ristoro di Cambi",43.770425500000002,11.242020200000001,RISTORANTE,"Via S. Onofrio, 1/r",50125,FIRENZE,Firenze,info@anticoristorodicambi.it,055 217134,055 217134
+2727rb,L'Ortone,43.770600000000002,11.26736,RISTORANTE,piazza ghiberti 87r,50122,"Sant'Ambrogio, FIRENZE",Firenze,info@lortone.it,055 2340804,
+2948rb,la bottega del pane - forno artigianale produzione propria,43.770797000000002,11.221000500000001,BOTTEGA,via pisana 214/R,50144,"Convento di Monticelli, FIRENZE",Firenze,labottegadelpanedipriamo@gmail.com,3922910242,
+270rb,"Ristorante ""Angels Restaurant & Wine Bar",43.770935999999999,11.257875,RISTORANTE,"Via del Proconsolo, 29/31",50122,FIRENZE,Firenze,info@ristoranteangels.it,055 2398762,055 2398123
+3216rb,I' Tuscani 3,43.770940699999997,11.256488600000001,RISTORANTE,"v. Dante Alighieri, 18r",50100,FIRENZE,Firenze,albertoflorindo@ituscani.com,3400527612,
+2637rb,5eCINQUE,43.771033199999998,11.248000599999999,RISTORANTE,P.ZZA DELLA PASSERA 1,50100,FIRENZE,Firenze,info@5ecinque.it,+39.055.2741583,
+891rb,Boccon Divino snc,43.771154597909998,11.46627654558,RISTORANTE,"Via Cafaggiolo, 10",,"Palaie, PELAGO",Firenze,info@boccondivinofirenze.it,055 8311279,055 8311279
+860rb,Caffè del '900,43.771268999999997,11.247453,RISTORANTE,"Borgo Ognissanti, 3/r",,FIRENZE,Firenze,"caffedel900@aol.it,axcsar@tin.it",055 218390,055 218390
+3261rb,Trattoria Il Giova,43.771314099999998,11.2676981,RISTORANTE,Borgo La Croce 73/r Firenze (FI) , 50121,,Firenze,ilgiovasrl@libero.it,0552480639,
+1296rb,VECCHIA FIRENZE,43.771331500000002,11.261866899999999,RISTORANTE,Borgo Albizi 18 / 76 r,50122,FIRENZE,Firenze,vecchia.firenze@libero.it,055 - 2340361 - 2,055 - 242301
+2472rb,mastro ciliegia ristorante,43.771342099999998,11.2614926,RISTORANTE,piazza San Pier maggiore,50122,FIRENZE,Firenze,alessandraiozzo@gmail.com,0552480964,
+2788rb,Toscana Biologica,43.771384699999999,11.211844899999999,BOTTEGA,"Via G.B. Foggini, 22",50142,FIRENZE,Firenze,tobio@toscanabiologica.it,0557322620,0557322620
+861rb,Le Campane,43.771411000000001,11.267118999999999,RISTORANTE,"Borgo La Croce, 87/r",,FIRENZE,Firenze,,055 2268667,055 2341101
+2042rb,RISTOPROVA,43.771420499999998,11.265492800000001,RISTORANTE,"Via Pietrapiana, 30",50100,FIRENZE,Firenze,SUSANNA.PELAGANI@REGIONE.TOSCANA.IT,0554383079,0554383032
+866rb,Plaz Srl,43.771420975280002,11.26363763951,RISTORANTE,"via Pietrapiana, 36r",,FIRENZE,Firenze,pierluigiurbini@hotmail.com,055 242081,055 242081
+2395rb,L’Osteria Di Giovanni,43.771455799999998,11.248556900000001,RISTORANTE,"Via del Moro, 22",50123,FIRENZE,Firenze,losteriadigiovanni@gmail.com,055 284897,
+870rb,Ristorante I Ghibellini,43.771462,11.261437000000001,RISTORANTE,"P.zza S.P.Maggiore, 8/10r",,FIRENZE,Firenze,info@ighibellini.com,055 214424,055 240857
+1406rb,Ristorante Il Paiolo,43.771486699999997,11.256336299999999,RISTORANTE,Via del Corso 42/r,50122,FIRENZE,Firenze,info@ristoranteilpaiolo.it,055/215019,055/215019
+2633rb,MISO di RISO,43.771490999999997,11.260652199999999,RISTORANTE,BORGO DEGLI ALBIZI 54R,50100,FIRENZE,Firenze,info@misodiriso.it,055 2654094,
+272rb,"Ristorante ""Natalino",43.771515999999998,11.259601999999999,RISTORANTE,"Borgo Albizi, 18/r",50100,FIRENZE,Firenze,,055 289404,
+1057rb,Hotel Helvetia & Bristol e Ristorante Hosteria Bibendum,43.771580999999998,11.252202,RISTORANTE,"via dei Pescioni, 2",,FIRENZE,Firenze,information.hbf@royaldemeure.com,055 26651,055 2399897
+886rb,Ristorante Da Lino,43.771721100000001,11.256091100000001,RISTORANTE,"Via Santa Elisabetta, 6/r",50122,FIRENZE,Firenze,ristdalino@virgilio.it,055 284579,055 290375
+2642rb,La Pentola dell'Oro,43.771987899999999,11.264699500000001,RISTORANTE,vIA DI mEZZO 22/24/26 R,50121,FIRENZE,Firenze,info@lapentoladelloro.it,3332021442,
+2641rb,La Pentola dell'Oro,43.771987899999999,11.264699500000001,RISTORANTE,"Via di Mezzo, 22,24,26 r",50121,FIRENZE,Firenze,info@lapentoladelloro.it,055243773,
+2901rb,Accademia del Coccio,43.772070200000002,11.0943518,RISTORANTE,Via Lungarno Bruno Buozzi 49,50055,"Ponte a Signa, LASTRA A SIGNA",Firenze,info@accademiadelcoccio.it,3343802229,0558724086
+212rb,"Ristorante ""Ottorino",43.77219278666,11.25588452103,RISTORANTE,"Via delle Oche, 12/16r",50100,FIRENZE,Firenze,,055 215151,055 287140
+1051rb,Cantina Barbagianni,43.772334600000001,11.260913499999999,RISTORANTE,"via S. Egidio, 13r",0,FIRENZE,Firenze,info@cantinabarbagianni.it,055 2480508,
+566rb,"Ristorante ""Sei Divino Florence Wine Gallery",43.772334999999998,11.245839,RISTORANTE,"Borgo Ognissanti, 42/r",,FIRENZE,Firenze,winegallery@seidivino.it,055 217791,
+2473rb,CAFFETTERIA DELLE OBLATE,43.772344699999998,11.2597448,RISTORANTE,via dell'Oriuolo 26,50122,FIRENZE,Firenze,barbara.setti@archeologia.it,0552639286,055576938
+2105rb,RISTORANTE LA MARTINICCA,43.772351299999997,11.249973499999999,RISTORANTE,Via del Sole 27/r,50100,FIRENZE,Firenze,info@ristorante-lamartinicca.com,055-218928,055-2728997
+649rb,"Ristorante ""Sasso di Dante",43.772424000000001,11.257432,RISTORANTE,"Via delle Pallottole, 6/r",50122,FIRENZE,Firenze,,055 282113,
+2673rb,PizzAudace,43.772857500000001,11.2207072,RISTORANTE,via Dosio 77/b,50142,"Legnaia, FIRENZE",Firenze,pizzaudace@gmail.com,0557135051,
+2000rb,Piazza del Vino,43.773208199999999,11.2825951,RISTORANTE,"via della Torretta, 18r",50137,FIRENZE,Firenze,piazzadelvino@hotmail.it,055 671404,055 671404
+1068rb,Giglio Rosso,43.773994000000002,11.25116,RISTORANTE,via Panzani 35 r,50123,FIRENZE,Firenze,info@ristorantegigliorosso.com,055 211795 ,055 283739
+1063rb,Rostorante Giglio Rosso,43.773994000000002,11.25116,RISTORANTE,Via Panzani 35 r,,FIRENZE,Firenze,info@ristorantegigliorosso.com,055 211795 ,055 283739
+888rb,Trattoria La Madia,43.774099999999997,11.251552999999999,RISTORANTE,"Via del Giglio, 14/r",50139,FIRENZE,Firenze,trattorialamadiafi@alice.it,055 218563,
+884rb,Ristorante Sabatini,43.774231598130001,11.250790053679999,RISTORANTE,"Via Panzani, 9A",50123,FIRENZE,Firenze,info@ristorantesabatini.it,055 211559,055 210293
+288rb,"Ristorante ""Giannino in S. Lorenzo"" di Bartoloni R. & C. sas",43.774314879999999,11.25488949,RISTORANTE,"Via Borgo S. Lorenzo, 35/37r",50100,FIRENZE,Firenze,info@gianninoinflorence.com,+39 055 239.97.99 ,055 2399799
+2005rb,Il Pallaio,43.774451300000003,11.2845456,RISTORANTE,"via Damiano Chiesa, 2",50137,"Campo di Marte, FIRENZE",Firenze,info@ilpallaio.eu,055 679304,055 679304
+2002rb,Il Povero Pesce,43.774505400000002,11.283520599999999,RISTORANTE,"Via Pier Fortunato Calvi, 8",50137,"Campo di Marte, FIRENZE",Firenze,info@poveropesce.it,055 671218,055 671218
+695rb,Osteria Le Prigioni,43.774639129640001,11.44044494629,RISTORANTE,Via Vittorio Emanuele II  n. 9,,PONTASSIEVE,Firenze,,055 8323372,055 662576
+2223rb,CUCO cucina contemporanea,43.774750099999999,11.251462099999999,RISTORANTE,via del melarancio 4/r,50123,FIRENZE,Firenze,bencini.stefano@libero.it,347 5217260,
+562rb,"Ristorante Pizzeria ""La Grotta di Leo",43.774861000000001,11.246567000000001,RISTORANTE,"Via della Scala, 41-43/r",50123,FIRENZE,Firenze,,055 264413,055 219265
+892rb,Toscani da Sempre,43.775109999999998,11.438395,RISTORANTE,"Via F.lli Monzecchi, 13/15",,PONTASSIEVE,Firenze,info@toscanidasempre.it,055 8392952,055 8396213
+885rb,Caffè Le Rose,43.7751777,11.250307299999999,RISTORANTE,"Piazza dell'Unità Italiana, 1/r",50123,FIRENZE,Firenze,a.cursano@alice.it,055 218909,055 7134800
+2153rb,TIRABARALLA,43.775221600000002,11.2460866,RISTORANTE,"VIA DELLA SCALA, 28R",50123,FIRENZE,Firenze,info@tirabaralla.it,055.218.418,055.218.418
+881rb,Trattoria Palle d'Oro,43.775873500000003,11.252750499999999,RISTORANTE,Via Sant'Antonino 43-45/r,50123,FIRENZE,Firenze,trattoriapalledoro@gmail.com,055 288383,055 291985
+250rb,"Ristorante Enoteca ""Il Portale",43.775894749190002,11.24721359588,RISTORANTE,"Via Alamanni,D29",50100,FIRENZE,Firenze,,055 289767,055 215413
+2007rb,Aviazione Campo di Marte,43.7760338,11.2815209,RISTORANTE,"viale Malta, 4",50137,"Campo di Marte, FIRENZE",Firenze,aviazionecampodimarte@virgilio.it,055 5801358,055 5801358
+1055rb,Garibaldi srl,43.776066,11.254296,RISTORANTE,"P.zza del Mercato Centrale, 38",,FIRENZE,Firenze,info@garibaldi.it,055 212267,055 2399107
+200rb,"Ristorante ""Za-Za",43.776510999999999,11.254405,RISTORANTE,"Piazza del Mercato Centrale, 26/r",50100,FIRENZE,Firenze,,055 210756,
+2040rb,trattoria da garibardi,43.776560000000003,11.254013,RISTORANTE,piazza del mercato centrale 38r,50123,FIRENZE,Firenze,info@garibardi.it,055212267,0552399107
+257rb,"Ristorante ""I Quattro Amici",43.776617000000002,11.246077,RISTORANTE,"Via Orti Oricellari, 29",50123,FIRENZE,Firenze,quattroamici@accademiadelgusto.it,055 212992,055 212992
+871rb,Ristorante La Falterona,43.776698000000003,11.252390999999999,RISTORANTE,"Via G.B. Zannoni, 10/12r",,FIRENZE,Firenze,claudioconsole@hotmail.com,055 216112,055 216112
+875rb,Ristorante Vecchio Mercato,43.776918999999999,11.253679,RISTORANTE,"P.zza del Mercato Centrale, 12/r",50123,FIRENZE,Firenze,info@vecchiomercato.fi.it,055 211978,055 211978
+895rb,Trattoria Dino,43.777096999999998,11.13552,RISTORANTE,"Via San Colombano, 78",50018,SCANDICCI,Firenze,info@trattorialocandadino.com,055 790067,055 790005
+883rb,Ristorante Vecchio Casale,43.777138999999998,11.205073000000001,RISTORANTE,"Via delle Torri, 7",50142,FIRENZE,Firenze,info@ristorante-vecchiocasale.com,055 7326162,055 717558
+2629rb,Fosso Bandito,43.777474499999997,11.234874899999999,RISTORANTE,Via Fosso Macinante 2,50144,FIRENZE,Firenze,info@fossobandito.com,055365500,
+2427rb,Podere Poggio al Sole,43.777690499999999,11.255632,BOTTEGA,Via Santa Reparata 7r,50139,"Trespiano, FIRENZE",Firenze,info@poderepoggioalsole.com,3272021758,
+748rb,"Ristorante ""Accademia",43.777735,11.25845,RISTORANTE,"Piazza S. Marco, 7/r",50121,FIRENZE,Firenze,,055 217343,055 2729399
+254rb,"Ristorante ""I' Toscano",43.778326210000003,11.25298351,RISTORANTE,"Via Guelfa, 70/r",50100,FIRENZE,Firenze,info@itoscano.it,055 215475,055 216837
+3199rb,La Baita,43.778367000000003,11.588969000000001,RISTORANTE,via poggio alla ginestra 2,50060,"consuma, PELAGO",Firenze,labaita.consuma@gmail.com,3401079517,
+1558rb,La Cantina,43.778591159999998,11.29695225,BOTTEGA,"Via G. Verga, 28",50137,"055 6121153, FIRENZE",Firenze,,055 6121153,
+880rb,Trattoria La Gratella,43.778660975800001,11.25200838868,RISTORANTE,"Via Guelfa, 81r",50129,FIRENZE,Firenze,ferrara.daniela@hotmail.it,055 211292,055 211292
+285rb,"Ristorante ""Enzo e Piero",43.778880100000002,11.250398000000001,RISTORANTE,"Via Faenza, 105/R",50123,FIRENZE,Firenze,enzoepiero@hotmail.com,055 214901,055 214901
+2588rb,Osteria il piacere,43.781273400000003,11.3015043,RISTORANTE,via Gabriele d'Annunzio 149,50135,FIRENZE,Firenze,info@osteriailpiacere.com,055602605,
+2578rb,ENOTRIA ristorante & enoteca,43.781292700000002,11.238117799999999,RISTORANTE,"Via delle Porte Nuove, 50",50144,FIRENZE,Firenze,enotria@enotriawine.it,055354350,
+3030rb,La Sosta del Rossellino,43.78342,11.322979999999999,RISTORANTE,via del rossellino 2r,50135,"Settignano, ",Firenze,info@rossellino.com,055697245,
+2778rb,Osteria Re Matto,43.785200000000003,11.270849999999999,RISTORANTE,Viale dei mille 152,50131,FIRENZE,Firenze,remattofirenze2014@gmail.com,055583851; 3477183636,
+720rb,"Ristorante Enoteca ""Borgo Allegro",43.785929000000003,10.926437999999999,RISTORANTE,"Via Fucini, 20",50059,VINCI,Firenze,info@borgoallegro.it,0571 567866,0571 567866
+2381rb,i borghi gourmet souvenir,43.787125099999997,10.926387099999999,RISTORANTE,piazza Leonardo da Vinci 5,50059,VINCI,Firenze,i.borghi@tiscali.it,3356131899,
+460rb,Osteria del Cacciatore,43.788400000000003,10.781929,RISTORANTE,"Via Cerbaie, 36/38",50050,"CINELLI, FUCECCHIO",Firenze,,0571 296238,0571 296238
+872rb,Ristorante La Frasca,43.788472542549997,11.26652168689,RISTORANTE,"Via Faentina, 70r",,FIRENZE,Firenze,lafrasca@tiscali.it,055 571244,
+721rb,"Ristorante ""Leonardo",43.788597106929998,10.9277639389,RISTORANTE,"Via Montalbano, 16",50059,VINCI,Firenze,info@ristoranteleonardo.com,0571 567916,0571 567916
+1059rb,Osteria i Riffaioli,43.789073000000002,11.270792,RISTORANTE,"via del Ponte alle Riffe, 2/4r",,FIRENZE,Firenze,info@osteriairiffaioli.it,055 5088070,055 5088070
+2453rb,IL PIASTRINO,43.791345,10.917208,RISTORANTE,"via Piastrino, 30",50059,VINCI,Firenze,info@ilpiastrino.it,057156148,05711882161
+744rb,"Ristorante ""Michelaccio",43.791443674829999,11.23712199138,RISTORANTE,"Via Ponte di Mezzo, 11-13-15/r",50127,FIRENZE,Firenze,,055 332495,055 3220488
+3169rb,Le Cirque Firenze,43.792655400000001,11.2164775,RISTORANTE,Via Mario Morosi 11,50127,FIRENZE,Firenze,jerry@lecirquefirenze.fr,3664140200,
+667rb,"Ristorante ""Da Burde",43.795897099999998,11.2034897,RISTORANTE,"Via Pistoiese, 6/r",50145,FIRENZE,Firenze,info@daburde.it,055 317206,055 317206
+2636rb,BIOVEGGY,43.796001699999998,11.1464172,RISTORANTE,Via Erbosa 12r,50100,FIRENZE,Firenze,info@bioveggy.it,3338359787,055 670268
+2847rb,Accademia dei palati,43.796242200000002,11.214771900000001,RISTORANTE,Via Valdinievole 12 FIRENZE,50127,"Novoli, FIRENZE",Firenze,Mauriziozanolla@accademiadeipalati.it,055412051,
+2820rb,CAVEMARE,43.796984700000003,11.3075703,RISTORANTE,via cave di maiano 18/20,50014,"Cave di Maiano, FIESOLE",Firenze,info@cavemare.it,055599963,
+1076rb,Villa Campestri Olive Oil Resort,43.797378000000002,11.218455000000001,RISTORANTE,"Via di Campestrini, 19/22",,"Vicchio di Mugello, VICCHIO",Firenze,gemma@villacamperstri.it,055 8490107,055 8490108
+2357rb,Rio Freddo,43.797825099999997,11.242667900000001,RISTORANTE,Viale Giovan Battista Morgagni 12a,50134,FIRENZE,Firenze,riofreddo.fi@gmail.com,055416945,
+2561rb,Ristorante Rio Freddo,43.797825099999997,11.242667900000001,RISTORANTE,Viale G.B. Morgagni 10b-12a,50134,FIRENZE,Firenze,riofreddo.fi@gmail.it,055416945,055450149
+1272rb,pensione Bencistà srl,43.800063373569998,11.29890532129,RISTORANTE,"via B. da Maiano, 4",50014,FIESOLE,Firenze,info@bencista.com,055 59163,055 59163
+836rb,"Ristorante ""Bencistà",43.800063373569998,11.29890532129,RISTORANTE,"Via B. da Maiano, 4",50014,FIESOLE,Firenze,info@bencista.com,055 59163,055 59163
+677rb,"Ristorante Enoteca ""Ferretto",43.80253248695,10.74072262552,RISTORANTE,"Via Pesciatina, 168",50050,"La Querce, FUCECCHIO",Firenze,ombrettamonti@libero.it,0571 296022,0571 296022
+2006rb,Le Lance,43.806478499999997,11.2931525,RISTORANTE,"via G. Mantellini, 2b",50016,FIESOLE,Firenze,info@lelance.it,055 599595,055 599595
+855rb,Ristorante I' Polpa,43.806821999999997,11.292541999999999,RISTORANTE,"Piazza Mino, 21/22",,FIESOLE,Firenze,ipolpa@yahoo.it,055 59485,055 59485
+856rb,Vinandro,43.806821999999997,11.292541999999999,RISTORANTE,"Piazza Mino,33",,FIESOLE,Firenze,,055 59121,055 59121
+2562rb,caffè al n.5,43.806890699999997,11.293548299999999,RISTORANTE,"piazza Mino,5",50014,FIESOLE,Firenze,caffealn.5@gmail.com,05559250  3408528393,
+3150rb,Bistrot dell'Accademia,43.808653399999997,11.201224699999999,RISTORANTE,via Valdinievole 12/14,50127,"Novoli, FIRENZE",Firenze,Maurizio@accademiadeipalati.it,055412051,
+251rb,"Ristorante ""Lo Zibibbo",43.81669998169,11.250946044919999,RISTORANTE,"Via di Terzollina, 3",50100,FIRENZE,Firenze,zibibbofirenze@libero.it   zibibbofirenze@hotmail.com,055 433383,055 4298070
+2481rb,MULINO A VENTO,43.816850000000002,11.446599000000001,RISTORANTE,VIA DI MONTEFIESOLE 48,50065,"Monterifrassine, PONTASSIEVE",Firenze,ristorante@fattorialavacchio.com,055 8396221,055.8395464
+3134rb,Ristorante Mulino a Vento,43.816850000000002,11.446599000000001,RISTORANTE,via di Montefiesole  48,50065,PONTASSIEVE,Firenze,ristorantemulinoavento@gmail.com,+39 055 8396221,
+2614rb,DREOLINO - CHIANTI RUFINA,43.8170924,11.4833438,BOTTEGA,"VIA FIORENTINA, 5-6",50068,RUFINA,Firenze,dreolino@dreolino.it,0558397021,0558396164
+3212rb,Ristorante orlando,43.818083000000001,11.373335000000001,RISTORANTE,via di Monteloro 13,50065,"Monteloro, PONTASSIEVE",Firenze,info@ristorantedaorlando.it,055 830 9056 Cell 392 0361095,
+3137rb,The Food Factory,43.822780399999999,11.2980924,RISTORANTE,Via Faentina 169/3,50014,"Le Caldine, FIESOLE",Firenze,info@thefoodfactory.it,055473727,
+873rb,Ristorante Lo Strettoio,43.822930846909998,11.25296888403,RISTORANTE,"Via di Serpiolle, 7",,FIRENZE,Firenze,info@lostrettoio.com,055 4250044,055 4250044
+2097rb,IL CAMPIGIANO,43.824118599999998,11.125099799999999,RISTORANTE,"Via Guido Guinizelli, 17",50013,CAMPI BISENZIO,Firenze,info@ilcampigiano.it,055 8979432,
+854rb,Ristorante Klass Florence,43.825048045800003,11.125449708890001,RISTORANTE,"Via Guido Guinizelli, 17",,CAMPI BISENZIO,Firenze,info@klassristorante.it,055 8966443,055 890003
+560rb,"Ristorante ""Bella Italia"" c/o Holiday Inn Firenze Nord",43.830660000000002,11.20257,RISTORANTE,Autostrada - Area  Servizio Firenze Nord,,SESTO FIORENTINO,Firenze,,055 44711,055 4219015
+3080rb,Quinto Quarto e dintorni,43.841813000000002,11.191107000000001,RISTORANTE,Via di Calenzano 56,50019,"Sesto Fiorentino, CASTELFIORENTINO",Firenze,info@osteriaquintoquarto.it,0554251032,
+293rb,"Ristorante ""Il Pozzo",43.850955999999996,11.167223999999999,RISTORANTE,"Via Vittorio Emanuele, 1",50041,CALENZANO,Firenze,,055 8878748,
+754rb,"Ristorante ""Ulivo Rosso",43.851427000000001,11.214955,RISTORANTE,"Via Catese, 2",50019,SESTO FIORENTINO,Firenze,,055 4481890,055 4481953
+1792rb,In Piazza da Sbarbacipolla,43.856467075730002,11.15237983435,BOTTEGA,Via Francesco Cilea 21,50041,CALENZANO,Firenze,sbarbacipolla00@gmail.com,055-8826499,Calenzano
+851rb,Trattoria Da Remo,43.86336,11.169176999999999,RISTORANTE,"Via Giusti, 90",,CALENZANO,Firenze,trattoriadaremo@libero.it,0555 8877154,055 8877154
+557rb,"Ristorante Pizzeria ""Da Roberto",43.890940000000001,11.522266999999999,RISTORANTE,"Piazza Trieste, 49",50062,DICOMANO,Firenze,,055 838035,
+2067rb,Il Ghiottone,43.891012000000003,11.524813,RISTORANTE,"Piazza Matteotti, 2",5006,DICOMANO,Firenze,,3289405766    055 838037,
+554rb,"Ristorante Pizzeria ""Etrusco",43.891086000000001,11.524819000000001,RISTORANTE,"Piazza Matteotti, 2",50062,DICOMANO,Firenze,,055 838037,
+1052rb,Albego Trattoria La Bruna,43.896056000000002,11.321064,RISTORANTE,"via della Fittaccia, 5",,"Bivigliano, VAGLIA",Firenze,,055 406614,055 406614
+1053rb,Albego Trattoria La Bruna,43.896056000000002,11.321064,RISTORANTE,"via della Fittaccia, 5",,"Bivigliano, VAGLIA",Firenze,info@hotellabruna.com,055 406614,055 406614
+1056rb,Albergo Trattoria La Bruna,43.896056000000002,11.321064,RISTORANTE,"Via della Fittaccia, 5",,"Bivigliano, VAGLIA",Firenze,info@hotellabruna.com,055 406614,055 406614
+246rb,"Ristorante ""L'Uovo di Colombo",43.909103393549998,11.28023052216,RISTORANTE,"Via Fattoria Nuova, 57/f",50030,VAGLIA,Firenze,info@teatroristorante.it,055 407539,
+2109rb,RISTORANTE ORESTE CAMPAGNA,43.914456000000001,11.224567,RISTORANTE,VIA DI LEGRI 22,50041,CALENZANO,Firenze,riccardo.chianticlassico@gmail.com,0558827156,0558827156
+852rb,Ristorante Carmagnini del '500,43.923546363569997,11.208194432699999,RISTORANTE,"Via di Barberino, 238",50041,CALENZANO,Firenze,info@carmagninidel500.it,055 8819930,055 8819611
+237rb,"Ristorante ""La Bottega dei Gaudenti",43.926086429999998,11.6180191,RISTORANTE,"Via Castagneto, 1",50060,SAN GODENZO,Firenze,info@labottegadeigaudenti.it,055 8374031,055 8374031
+2536rb,RISTORANTE ALBERGO DA SILVANO,43.928998999999997,11.621755,RISTORANTE,Via Forlivese 69/71,50060,SAN GODENZO,Firenze,lochaletsangodenzo@gmail.com,0558374043,0558374043
+553rb,"Ristorante ""La Casa di Caccia",43.9326171875,11.4671869278,RISTORANTE,Roti,,"Molezzano, VICCHIO",Firenze,,055 8407629,
+1277rb,o' per bacco,43.932948118959999,11.46653011635,RISTORANTE,Corso del popolo,50039,VICCHIO,Firenze,pamelaiv@libero.it,339 3120937,
+445rb,"Ristorante ""La Casa del Prosciutto",43.933736000000003,11.458762999999999,RISTORANTE,"Via Ponte a Vicchio, 1",50039,VICCHIO,Firenze,,055 844031,
+896rb,La Casa Matta,43.934060000000002,11.461789,RISTORANTE,"Viale Beato Angelico, 79",50039,VICCHIO,Firenze,lacasamatta@alice.it,055 8497104,055 8497104
+463rb,"Ristorante ""Nuovo Oblò",43.934092,11.456484,RISTORANTE,"Via Martiri di Campo di Marte, 51",50039,VICCHIO,Firenze,,055 8448359,
+1802rb,Roberto Frutta commercio prodotti agroalimentari,43.936093421080002,11.446799407389999,BOTTEGA,"via Aligi Barducci, 13",,"055 8494538, VICCHIO",Firenze,lunicasrl@lunica.it,055 8455374,
+2613rb,Ristorante da Gianni,43.945998299999999,11.2135661,RISTORANTE,"Via di Barberino, 47",50041,"Le Croci di Calenzano, CALENZANO",Firenze,ristorante.dagianni@libero.it,055 8876908,
+292rb,"Ristorante ""Degli Artisti",43.953696999999998,11.38857,RISTORANTE,"Piazza Romagnoli, 1",50032,BORGO SAN LORENZO,Firenze,,055 8457707,
+444rb,"Ristorante ""Tre Fiumi",43.95642471,11.38453674,RISTORANTE,"Via Madonna 3 Fiumi, 16",50030,"Ronta, BORGO SAN LORENZO",Firenze,info@albergotrefiumi.com,055 840397,055 8403015
+556rb,"Ristorante Pizzeria ""Il Portichetto",43.960650000000001,11.300698000000001,RISTORANTE,"Loc. Ischieni, 9/a",,SAN PIERO A SIEVE,Firenze,,055 858099,
+453rb,"Ristorante ""La Bisboccina",43.961424999999998,11.32386,RISTORANTE,"Via Provinciale, 38",50037,SAN PIERO A SIEVE,Firenze,,055 8486950,
+278rb,Ristorante Giro di Bacco,43.964889939999999,11.29787475,RISTORANTE,"Via Nazionale, 8",50031,"Cafaggiolo, BARBERINO DI MUGELLO",Firenze,girodibacco@alice.it,055 8418173 055 8416111,055 8486766
+1317rb,Ristorante degli artisti di Margheri Donatella,43.965554300000001,11.324537599999999,RISTORANTE,"Pzza Romagnoli, 1",0,BORGO SAN LORENZO,Firenze,info@gliartistiristorante.com,055 8457707,
+465rb,"Ristorante ""Anna Trend",43.991672999999999,11.351906,RISTORANTE,"Viale J. F. Kennedy, 50",50038,SCARPERIA,Firenze,,055 846219,
+466rb,"Ristorante ""Il Rustico",43.994363999999997,11.354334,RISTORANTE,"Piazza Garibaldi, 18/20",50038,SCARPERIA,Firenze,,055 8469992,
+461rb,"Ristorante ""Il Torrione",43.996229,11.354950000000001,RISTORANTE,"Via Roma, 78/80",50038,SCARPERIA,Firenze,,055 846201,
+443rb,L'Oste in Piazza,43.999502999999997,11.239286,RISTORANTE,"Piazza Cavour, 10",50031,BARBERINO DI MUGELLO,Firenze,osteinpiazza@libero.it,055 8478027,055 8478027
+2463rb,chiosco bello,44.006909700000001,11.237650800000001,RISTORANTE,via spiaggia del lago,40,"castel gandolfo, BARBERINO DI MUGELLO",Firenze,info@chioscobello.com,0693668252,
+462rb,"Ristorante ""Il Giogo",44.027616999999999,11.381837000000001,RISTORANTE,"Via del Giogo, 19",50038,SCARPERIA,Firenze,rist.ilgiogo@tin.it,055 846051,
+1074rb,Locanda Senio,44.112279000000001,11.547299000000001,RISTORANTE,"via Borgo dell'Ore, 1",50035,PALAZZUOLO SUL SENIO,Firenze,info@locandasenio.com,055 8046019,055 8046019
+236rb,"Ristorante ""La Bottega dei Portici",44.112502999999997,11.548302,RISTORANTE,"Piazza Garibaldi, 3",50035,PALAZZUOLO SUL SENIO,Firenze,,055 8046580,
+2810rb,Albergo Ristorante La Rocca,44.118445999999999,11.378909,RISTORANTE,Piazza Agnolo 3-4-5,50033,FIRENZUOLA,Firenze,info@laroccaristorante.net,3398127890,
+201rb,Acconci Albergo Ristorante,44.118527,11.37947,RISTORANTE,"Piazza Agnolo, 18",50033,FIRENZUOLA,Firenze,aracconci@tiscali.it,3383481933,055 819184
+2430rb,Agriturismo Rovignale,44.1197838,11.378554599999999,RISTORANTE,"Rovignale Capanna, 492",50033,"Capanna, FIRENZUOLA",Firenze,info@rovignale.it,+39 338 3387603,

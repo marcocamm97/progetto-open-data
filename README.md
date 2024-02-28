@@ -1,4 +1,4 @@
-Progetto realizzato per la materia "Tecniche Per La Gestione Degli Open Data", (Laurea Triennale in Informatica, docente: prof. Davide Taibi). L'obiettivo principale del progetto è, a partire da tre dataset in formato CSV (Comma Separated Value, 3 stelle), raffinare e combinare tra loro tali dataset con lo scopo di creare uno strato semantico provvisto di interlinking a DBPedia, trasformando quindi i dati a 5 stelle. Precisamente le fasi saranno:
+Progetto realizzato per la materia "Tecniche Per La Gestione Degli Open Data", (Laurea Triennale in Informatica, docente: prof. Davide Taibi). L'obiettivo principale del progetto è, a partire da tre dataset in formato CSV (Comma Separated Value, 3 stelle), raffinare e combinare tra loro questi con lo scopo di creare uno strato semantico provvisto di interlinking alla risorsa DBPedia, trasformando quindi i dati a 5 stelle. Precisamente le fasi saranno:
 
     Selezione dei dataset e relative licenze
     Elaborazione dei dataset: lettura, pulizia, merge
